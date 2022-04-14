@@ -6,12 +6,12 @@
     "report_plot_data": {},
     "report_saved_raw_data": {},
     "config_analysis_dir_abs": [
-        "/mnt/c/Zymo Research/Github/test_multiqc/Rplot"
+        "/mnt/c/Zymo Research/Github/Plotly_with_R/Rplot"
     ],
     "config_analysis_dir": [
         "."
     ],
-    "config_creation_date": "2022-04-13, 22:01",
+    "config_creation_date": "2022-04-14, 20:47",
     "config_git_hash": null,
     "config_intro_text": null,
     "config_report_comment": null,
